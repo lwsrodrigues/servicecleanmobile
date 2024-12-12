@@ -1,6 +1,20 @@
-Estou desenvolvendo um Aplicativo Mobile inovador, utilizando Gradle para automação de builds, 
-Apache Cordova para criar uma interface nativa, HTML, CSS e JavaScript para o design e funcionalidades da interface,
-e Node.js como servidor de aplicação para gerenciar as requisições.Além disso, estou implementando o back-end em Java para garantir uma lógica robusta e escalável.
-O projeto também fará uso de um banco de dados SQLite para armazenamento eficiente de dados e se conectará a uma API RESTful que utiliza JSON para a troca de informações.
-Além disso, a autenticação será implementada por meio de tokens JWT, garantindo segurança nas conexões. 
-Está sendo um desafio e aprendizado neste projeto! 🧠💡
+Mobile App - Plataforma Inovadora
+
+⚡ Sobre o Projeto
+
+Este projeto consiste no desenvolvimento de um aplicativo mobile inovador que visa fornecer uma experiência intuitiva e funcional para os usuários. O app combina tecnologias modernas e abordagens escaláveis para atender às necessidades atuais do mercado. Além de funcionalidades bem estruturadas, o projeto prioriza segurança, desempenho e facilidade de manutenção.
+
+🔄 Tecnologias Utilizadas
+
+Front-end
+
+HTML, CSS, JavaScript: Design responsivo e funcionalidades interativas da interface.
+
+Apache Cordova: Para criar uma interface nativa e disponibilizar o app em multiplataformas.
+
+Back-end
+
+Java: Implementação da lógica de negócio com robustez e escalabilidade.
+
+Node.js: Servidor de aplicação para gerenciamento de requisições e integração com o front-end.
+
