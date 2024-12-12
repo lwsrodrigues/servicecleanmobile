@@ -1,8 +1,8 @@
-# Mobile App - Plataforma Inovadora
+# Desenvolvimento Mobile 
 
 ## ⚡ Sobre o Projeto
 
-Este projeto consiste no desenvolvimento de um aplicativo mobile inovador que visa fornecer uma experiência intuitiva e funcional para os usuários. O app combina tecnologias modernas e abordagens escaláveis para atender às necessidades atuais do mercado. Além de funcionalidades bem estruturadas, o projeto prioriza segurança, desempenho e facilidade de manutenção.
+Este projeto consiste no desenvolvimento de um aplicativo mobile que visa fornecer uma experiência intuitiva e funcional para os usuários. O app combina tecnologias modernas e abordagens escaláveis para atender às necessidades atuais do mercado. Além de funcionalidades bem estruturadas, o projeto prioriza segurança, desempenho e facilidade de manutenção.
 
 ## 🔄 Tecnologias Utilizadas
 
